@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.pw-spacing-wide {
+  letter-spacing: 0.5rem;
+}
